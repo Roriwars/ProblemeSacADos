@@ -1,0 +1,27 @@
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\bin\Debug\Services.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\bin\Debug\Services.pdb
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\bin\Debug\DataContracts.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\bin\Debug\DataContracts.pdb
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\obj\Debug\Services.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Services\obj\Debug\Services.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\Services.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\Services.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\DataContracts.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\DataContracts.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.csprojAssemblyReference.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.csproj.CopyComplete
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\Services.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\Services.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\DataContracts.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\bin\Debug\DataContracts.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.csprojAssemblyReference.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.csproj.CopyComplete
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Services\obj\Debug\Services.pdb

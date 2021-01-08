@@ -1,0 +1,45 @@
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\Projet1.exe.config
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\Projet1.exe
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\Projet1.pdb
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\DataContracts.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\Services.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\DataContracts.pdb
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\bin\Debug\Services.pdb
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.Form1.resources
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.csproj.CopyComplete
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.exe
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\Projet1\obj\Debug\Projet1.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Projet1.exe.config
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Projet1.exe
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Projet1.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\DataContracts.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Services.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\DataContracts.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Services.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.Form1.resources
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csproj.CopyComplete
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.exe
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csprojAssemblyReference.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.Form1.resources
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.Properties.Resources.resources
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csproj.GenerateResource.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csproj.CoreCompileInputs.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.exe
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Projet1.exe.config
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Projet1.exe
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Projet1.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\DataContracts.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Services.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\DataContracts.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\bin\Debug\Services.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\Projet1\obj\Debug\Projet1.csproj.CopyComplete

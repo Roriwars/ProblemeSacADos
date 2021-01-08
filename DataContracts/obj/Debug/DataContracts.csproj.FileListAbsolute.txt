@@ -1,0 +1,18 @@
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\DataContracts\bin\Debug\DataContracts.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\DataContracts\bin\Debug\DataContracts.pdb
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\DataContracts\obj\Debug\DataContracts.csprojAssemblyReference.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\DataContracts\obj\Debug\DataContracts.csproj.CoreCompileInputs.cache
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\DataContracts\obj\Debug\DataContracts.dll
+D:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projets\Projet1\DataContracts\obj\Debug\DataContracts.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\DataContracts\bin\Debug\DataContracts.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\DataContracts\bin\Debug\DataContracts.pdb
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.csprojAssemblyReference.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.csproj.CoreCompileInputs.cache
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.dll
+F:\Master 2 Informatique\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\DataContracts\bin\Debug\DataContracts.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\DataContracts\bin\Debug\DataContracts.pdb
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.csprojAssemblyReference.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.csproj.CoreCompileInputs.cache
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.dll
+S:\Documents\Master 2\Démarche Qualité et Qualité du Code\Projet1\DataContracts\obj\Debug\DataContracts.pdb
