@@ -1,4 +1,0 @@
-Parcours en profondeur avec un arbre
-on prend l'objet ou non (deux branches) puis on passe a l'objet suivant et rebelote
-
-programmation dynamique, la solution du problème est mathématiquement récursive
